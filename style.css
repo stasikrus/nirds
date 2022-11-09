@@ -132,7 +132,7 @@ img {
   left: -35px;
   width: 15px;
   height: 15px;
-  background-image: url("/img/cart-icon.svg");
+  background-image: url("img/cart-icon.svg");
   background-repeat: no-repeat;
   background-position: 0 0;
 }
@@ -526,7 +526,7 @@ img {
 .modal-close::after {
   position: absolute;
   content: "";
-  background-image: url(/img/Shape.svg);
+  background-image: url(img/Shape.svg);
   width: 21px;
   height: 21px;
 }
@@ -559,7 +559,7 @@ img {
 .catalog-filter::after {
   position: absolute;
   content: "";
-  background-image: url(/img/icon-down-dir.svg);
+  background-image: url(img/icon-down-dir.svg);
   width: 11px;
   height: 10px;
   right: 27px;
@@ -573,7 +573,7 @@ img {
   height: 10px;
   right: 0px;
   top: 7px;
-  background-image: url(/img/icon-up-dir.svg);
+  background-image: url(img/icon-up-dir.svg);
   opacity: 0.3;
 }
 
@@ -621,7 +621,7 @@ img {
   position: absolute;
   left: -35px;
   top: -2px;
-  background-image: url(/img/checkbox-off.svg);
+  background-image: url(img/checkbox-off.svg);
   width: 23px;
   height: 23px;
   opacity: 0.4;
@@ -638,7 +638,7 @@ img {
   top: -2px;
   width: 25px;
   height: 23px;
-  background-image: url(/img/checkbox-on.png);
+  background-image: url(img/checkbox-on.png);
   opacity: 0.4;
 }
 
@@ -654,7 +654,7 @@ img {
   width: 25px;
   height: 25px;
   border-radius: 50%;
-  background-image: url(/img/radio-off.svg);
+  background-image: url(img/radio-off.svg);
   opacity: 0.4;
 }
 
@@ -669,7 +669,7 @@ img {
   top: -4px;
   width: 25px;
   height: 25px;
-  background-image: url(/img/radio-on.svg);
+  background-image: url(img/radio-on.svg);
   opacity: 0.4;
 }
 
